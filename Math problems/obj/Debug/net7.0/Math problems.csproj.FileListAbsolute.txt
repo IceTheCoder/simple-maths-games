@@ -1,0 +1,15 @@
+C:\Users\Cristi\Desktop\C#\Math problems\bin\Debug\net7.0\Math problems.exe
+C:\Users\Cristi\Desktop\C#\Math problems\bin\Debug\net7.0\Math problems.deps.json
+C:\Users\Cristi\Desktop\C#\Math problems\bin\Debug\net7.0\Math problems.runtimeconfig.json
+C:\Users\Cristi\Desktop\C#\Math problems\bin\Debug\net7.0\Math problems.dll
+C:\Users\Cristi\Desktop\C#\Math problems\bin\Debug\net7.0\Math problems.pdb
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\Math problems.csproj.AssemblyReference.cache
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\Math problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\Math problems.AssemblyInfoInputs.cache
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\Math problems.AssemblyInfo.cs
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\Math problems.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\Math problems.dll
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\refint\Math problems.dll
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\Math problems.pdb
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\Math problems.genruntimeconfig.cache
+C:\Users\Cristi\Desktop\C#\Math problems\obj\Debug\net7.0\ref\Math problems.dll
