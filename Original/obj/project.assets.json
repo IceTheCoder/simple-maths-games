@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristi\\Documents\\GitHub\\simple-maths-multiplication-and-addition\\Math problems\\Math problems.csproj",
+      "projectUniqueName": "C:\\Users\\Cristi\\Documents\\GitHub\\simple-maths-multiplication-and-addition\\Original\\Math problems.csproj",
       "projectName": "Math problems",
-      "projectPath": "C:\\Users\\Cristi\\Documents\\GitHub\\simple-maths-multiplication-and-addition\\Math problems\\Math problems.csproj",
+      "projectPath": "C:\\Users\\Cristi\\Documents\\GitHub\\simple-maths-multiplication-and-addition\\Original\\Math problems.csproj",
       "packagesPath": "C:\\Users\\Cristi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristi\\Documents\\GitHub\\simple-maths-multiplication-and-addition\\Math problems\\obj\\",
+      "outputPath": "C:\\Users\\Cristi\\Documents\\GitHub\\simple-maths-multiplication-and-addition\\Original\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristi\\AppData\\Roaming\\NuGet\\NuGet.Config",
