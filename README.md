@@ -1,6 +1,8 @@
 # simple-maths-multiplication-and-addition
 You will be presented with 3 simple maths operations involving the multiplication of 2 numbers and the addition of another to the result.
 
+Blog: https://icethedev2.github.io/
+
 ## Prerequisites
 - [.NET Core SDK for Visual Studio Code](https://dotnet.microsoft.com/en-us/) (Make sure to install while VSCode is closed)
 - [Visual Studio Code](https://code.visualstudio.com/) (Make sure to also install the C# extension)
