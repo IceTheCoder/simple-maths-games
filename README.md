@@ -22,5 +22,5 @@ Youtube: https://www.youtube.com/channel/UCBqVJU4gjeik1RavAsVR6Pg
 E-mail: icethedev2@gmail.com
 
 ## Acknowledgements
-- [Brackeys' series on programming in C# for giving me this idea](https://www.youtube.com/watch?v=u_Qv5IrMUqg&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR&index=4).
+- [Brackeys' series on programming in C# for giving me this idea](https://www.youtube.com/watch?v=u_Qv5IrMUqg&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR&index=4), as well as his other videos, which have helped greatly in my journey.
 - [ChatGPT](https://chat.openai.com/chat) for helping me when I'm stuck.
