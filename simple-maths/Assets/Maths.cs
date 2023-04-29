@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using TMPro;
 using Unity.Mathematics;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Maths : MonoBehaviour
 {
@@ -41,5 +42,13 @@ public class Maths : MonoBehaviour
                 result.text = "Incorrect! \n Correct: " + (num1 * num2 + num3).ToString();
             }
         }
+        StartCoroutine(ReloadScene());
     }
+
+    IEnumerator ReloadScene()
+    {
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
 }
