@@ -24,20 +24,22 @@ public class Maths : MonoBehaviour
         num3 = random.Next(1, 11); // generates a random integer between 1 and 100
 
         exercise.text = num1.ToString() + " * " + num2.ToString() + " + " + num3.ToString() + " =";
-
     }
 
     public void ValidateResult()
     {
         answer = inputField.text.ToString();
 
-        if (Convert.ToInt32(answer) == num1 * num2 + num3)
+        if (answer != "")
         {
-            Debug.Log("Correct!");
-        }
-        else
-        {
-            Debug.Log("Incorrect!");
+            if (Convert.ToInt32(answer) == num1 * num2 + num3)
+            {
+                result.text = "Correct!";
+            }
+            else
+            {
+                result.text = "Incorrect! \n Correct: " + (num1 * num2 + num3).ToString();
+            }
         }
     }
 }
