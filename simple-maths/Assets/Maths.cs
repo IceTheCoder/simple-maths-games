@@ -2,69 +2,42 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using Unity.Mathematics;
 using UnityEngine;
 
 public class Maths : MonoBehaviour
 {
-    public TextMeshProUGUI text;
+    public TextMeshProUGUI exercise;
+    public TextMeshProUGUI result;
+    public TMP_InputField inputField;
+    public int num1;
+    public int num2;
+    public int num3;
+    public string answer;
+    System.Random random = new System.Random();
 
     void Start()
     {
-        int num1;
-        int num2;
-        int num3;
-        string answer;
 
-        System.Random random = new System.Random();
         num1 = random.Next(1, 11); // generates a random integer between 1 and 100
         num2 = random.Next(1, 11); // generates a random integer between 1 and 100
         num3 = random.Next(1, 11); // generates a random integer between 1 and 100
 
-        text.text = num1.ToString() + " * " + num2.ToString() + " + " + num3.ToString() + " =";
-        // answer = Console.ReadLine();
+        exercise.text = num1.ToString() + " * " + num2.ToString() + " + " + num3.ToString() + " =";
 
-        return;
+    }
 
-        if (Convert.ToInt32(answer) == num1 * num2 + num3)
-        {
-            Console.WriteLine("Correct!");
-        }
-        else
-        {
-            Console.WriteLine("Incorrect!");
-        }
-        num1 = random.Next(1, 11); // generates a random integer between 1 and 100
-        num2 = random.Next(1, 11); // generates a random integer between 1 and 100
-        num3 = random.Next(1, 11); // generates a random integer between 1 and 100
-
-        Console.WriteLine(num1.ToString() + " * " + num2.ToString() + " + " + num3.ToString());
-        answer = Console.ReadLine();
+    public void ValidateResult()
+    {
+        answer = inputField.text.ToString();
 
         if (Convert.ToInt32(answer) == num1 * num2 + num3)
         {
-            Console.WriteLine("Correct!");
+            Debug.Log("Correct!");
         }
         else
         {
-            Console.WriteLine("Incorrect!");
+            Debug.Log("Incorrect!");
         }
-        num1 = random.Next(1, 11); // generates a random integer between 1 and 100
-        num2 = random.Next(1, 11); // generates a random integer between 1 and 100
-        num3 = random.Next(1, 11); // generates a random integer between 1 and 100
-
-        Console.WriteLine(num1.ToString() + " * " + num2.ToString() + " + " + num3.ToString());
-        answer = Console.ReadLine();
-
-        if (Convert.ToInt32(answer) == num1 * num2 + num3)
-        {
-            Console.WriteLine("Correct!");
-        }
-        else
-        {
-            Console.WriteLine("Incorrect!");
-        }
-
-        Console.ReadKey();
-
     }
 }
