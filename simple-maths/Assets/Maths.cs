@@ -11,10 +11,13 @@ public class Maths : MonoBehaviour
     public TextMeshProUGUI exercise;
     public TextMeshProUGUI result;
     public TMP_InputField inputField;
-    public int num1;
-    public int num2;
-    public int num3;
-    public string answer;
+    public float newExerciseDelay = 2f;
+
+    private int num1;
+    private int num2;
+    private int num3;
+    private string answer;
+
     System.Random random = new System.Random();
 
     void Start()
@@ -47,7 +50,7 @@ public class Maths : MonoBehaviour
 
     IEnumerator ReloadScene()
     {
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(newExerciseDelay);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
