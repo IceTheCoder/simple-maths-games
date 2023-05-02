@@ -24,6 +24,9 @@ Blog: https://icethedev2.github.io/
 - Hit F5 to start debugging (i.e. running the program).
 - Enjoy.
 
+## License
+This repository is licensed under the MIT license with an added attribution. In short, you must include the exact copy of this project's license in your end-user application and also mention the sections in which my code was used. Read LICENSE for more information.
+
 ## Contact
 Project Link: https://github.com/IceTheDev2/Passwordsy/  
 
