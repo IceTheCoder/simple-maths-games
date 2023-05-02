@@ -15,14 +15,14 @@ Blog: https://icethedev2.github.io/
 
 ## How to use
 ### GUI-based
-- Open the 'simple-maths' folder in Unity Hub as a projec
-- Hit the Unity play button
-- Enjoy
+- Open the 'simple-maths' folder in Unity as a project.
+- Hit the Unity play button.
+- Enjoy.
 
 ### Terminal-based (legacy)
-- Open the Program.cs file in VSCode
-- Hit F5 to start debugging (i.e. running the program)
-- Enjoy
+- Open the Program.cs file in VSCode.
+- Hit F5 to start debugging (i.e. running the program).
+- Enjoy.
 
 ## Contact
 Project Link: https://github.com/IceTheDev2/Passwordsy/  
