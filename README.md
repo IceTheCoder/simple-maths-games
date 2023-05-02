@@ -1,4 +1,4 @@
-# simple-maths-multiplication-and-addition
+# simple-maths-games
 You will be presented with a simple maths operation involving the multiplication of 2 numbers and the addition of another to the result.
 
 Submit a result in the input box and the program will validate it. If it's wrong, it will tell you the correct result. After 2 secods, a new exercise will appear.
@@ -15,14 +15,17 @@ Blog: https://icethedev2.github.io/
 
 ## How to use
 ### GUI-based
-- Open the 'simple-maths' folder in Unity Hub as a projec
-- Hit the Unity play button
-- Enjoy
+- Open the 'simple-maths' folder in Unity as a project.
+- Hit the Unity play button.
+- Enjoy.
 
 ### Terminal-based (legacy)
-- Open the Program.cs file in VSCode
-- Hit F5 to start debugging (i.e. running the program)
-- Enjoy
+- Open the Program.cs file in VSCode.
+- Hit F5 to start debugging (i.e. running the program).
+- Enjoy.
+
+## License
+This repository is licensed under the MIT license with an added attribution. In short, you must include the exact copy of this project's license in your end-user application and also mention the sections in which my code was used. Read LICENSE for more information.
 
 ## Contact
 Project Link: https://github.com/IceTheDev2/Passwordsy/  
