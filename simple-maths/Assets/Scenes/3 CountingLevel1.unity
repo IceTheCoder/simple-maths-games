@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6f775ce86f40794a8b31506164c0120, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameObjects:
+  cubes:
   - {fileID: 2003406584}
   - {fileID: 1258835046}
   - {fileID: 80070280}
@@ -163,6 +163,11 @@ MonoBehaviour:
   - {fileID: 1399255131}
   - {fileID: 1073264653}
   - {fileID: 601352138}
+  buttonsTexts:
+  - {fileID: 1934262511}
+  - {fileID: 1664875939}
+  - {fileID: 436191900}
+  - {fileID: 279386075}
 --- !u!4 &20045763
 Transform:
   m_ObjectHideFlags: 0
