@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StageMenu.unity
     guid: b819f894e5471ae4ea2c255040e4ef10
   - enabled: 1
+    path: Assets/Scenes/CountingLevelMenu.unity
+    guid: 97181dcc244abda47be4860a99b0d16f
+  - enabled: 1
     path: Assets/Scenes/Original.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
