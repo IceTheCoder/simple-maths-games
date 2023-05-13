@@ -181,7 +181,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: PLAY
+  m_text: '1
+
+    COUNTING'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e4f58ac71adcf2c47b03d1554d10de11, type: 2}
   m_sharedMaterial: {fileID: -7963445412650036897, guid: e4f58ac71adcf2c47b03d1554d10de11, type: 2}
@@ -550,8 +552,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 180, y: 60}
+  m_AnchoredPosition: {x: -253, y: 125}
+  m_SizeDelta: {x: 200, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1832575210
 MonoBehaviour:
@@ -660,7 +662,7 @@ Animator:
   m_GameObject: {fileID: 1832575208}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 74b0ea621f5035a4ba11d9b5b39ed417, type: 2}
+  m_Controller: {fileID: 9100000, guid: acb4c8aad5852f346a9771cd7bf1b092, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
