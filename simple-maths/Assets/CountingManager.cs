@@ -31,6 +31,19 @@ public class CountingManager : MonoBehaviour
         int activeCubes = 10 - randomNumber;
 
         int randomButton = Random.Range(0, buttonsTexts.Length);
+
+        // Loop through each element of the buttonsTexts array and set the text to a random value between 0 and 10 that is not equal to activeCubes
+        for (int i = 0; i < buttonsTexts.Length; i++)
+        {
+            int randomValue = Random.Range(0, 11);
+            while (randomValue == activeCubes)
+            {
+                randomValue = Random.Range(0, 11);
+            }
+            buttonsTexts[i].text = randomValue.ToString();
+        }
+
         buttonsTexts[randomButton].text = activeCubes.ToString();
+
     }
 }

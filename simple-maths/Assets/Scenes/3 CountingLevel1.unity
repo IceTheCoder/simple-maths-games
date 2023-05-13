@@ -379,19 +379,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 164616369}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 164616365}
-        m_TargetAssemblyTypeName: NextLevel, Assembly-CSharp
-        m_MethodName: LoadNextLevel
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &164616369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -699,19 +687,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 340159475}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 340159471}
-        m_TargetAssemblyTypeName: NextLevel, Assembly-CSharp
-        m_MethodName: LoadNextLevel
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &340159475
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1439,19 +1415,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1267348188}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1267348184}
-        m_TargetAssemblyTypeName: NextLevel, Assembly-CSharp
-        m_MethodName: LoadNextLevel
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1267348188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1967,19 +1931,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1766592726}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1766592722}
-        m_TargetAssemblyTypeName: NextLevel, Assembly-CSharp
-        m_MethodName: LoadNextLevel
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1766592726
 MonoBehaviour:
   m_ObjectHideFlags: 0
