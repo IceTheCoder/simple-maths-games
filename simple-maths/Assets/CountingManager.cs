@@ -8,6 +8,7 @@ public class CountingManager : MonoBehaviour
 {
     public GameObject[] cubes;
     public TextMeshProUGUI[] buttonsTexts;
+    public int activeCubes;
 
     /// <summary>
     /// Called when the script first loads,
@@ -28,7 +29,7 @@ public class CountingManager : MonoBehaviour
             }
         }
 
-        int activeCubes = 10 - randomNumber;
+        activeCubes = 10 - randomNumber;
 
         int randomButton = Random.Range(0, buttonsTexts.Length);
 
