@@ -42,7 +42,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-Project Link: https://github.com/IceTheDev2/Passwordsy/  
+Project Link: https://github.com/IceTheDev2/simple-maths-games/  
 
 Reddit: https://www.reddit.com/user/AnEntirePeach
 
