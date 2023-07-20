@@ -3,8 +3,6 @@ You will be presented with a simple maths operation involving the multiplication
 
 Submit a result in the input box and the program will validate it. If it's wrong, it will tell you the correct result. After 2 secods, a new exercise will appear.
 
-Blog: https://icethedev2.github.io/
-
 ## Prerequisites
 ### GUI-based
 - [Unity](https://unity.com/download)
