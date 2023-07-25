@@ -1,4 +1,6 @@
 # simple-maths-games
+RETIRED REPO
+
 You will be presented with a simple maths operation involving the multiplication of 2 numbers and the addition of another to the result.
 
 Submit a result in the input box and the program will validate it. If it's wrong, it will tell you the correct result. After 2 secods, a new exercise will appear.
