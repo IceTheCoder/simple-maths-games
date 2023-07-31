@@ -3,7 +3,7 @@ RETIRED REPO
 
 You will be presented with a simple maths operation involving the multiplication of 2 numbers and the addition of another to the result.
 
-Submit a result in the input box and the program will validate it. If it's wrong, it will tell you the correct result. After 2 secods, a new exercise will appear.
+Submit a result in the input box and the program will validate it. If it's wrong, it will tell you the correct result. After 2 seconds, a new exercise will appear.
 
 ## Prerequisites
 ### GUI-based
@@ -42,13 +42,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-Project Link: https://github.com/IceTheDev2/simple-maths-games/  
+Project Link: https://github.com/IceTheGameDev/simple-maths-games/  
 
 Reddit: https://www.reddit.com/user/AnEntirePeach
 
-Youtube: https://www.youtube.com/channel/UCBqVJU4gjeik1RavAsVR6Pg
+Youtube: https://www.youtube.com/@IceTheGameDev
 
-E-mail: icethedev2@gmail.com
+E-mail: icethegamedev@gmail.com
 
 ## Acknowledgements
 - [Brackeys' series on programming in C# for giving me this idea](https://www.youtube.com/watch?v=u_Qv5IrMUqg&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR&index=4), as well as his other videos, which have helped greatly in my journey.
